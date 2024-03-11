@@ -13,6 +13,10 @@ How to write versioning:
 - ``php-unit-testing`` would be the last branch for test cases
 - ``php-dev-`` for the added branches
 
+#### PHP Terminal Terminologies
+- php -h : help file
+- php -S localhost:8888
+
 ### Credits
 [Laracasts](https://www.youtube.com/watch?v=fw5ObX8P6as)
 [PHP.next](https://www.php.net/)
