@@ -11,6 +11,7 @@ How to write versioning:
 ### Branches
 - ``main`` branch all the updates and perfectly working should be posted
 - ``php-unit-testing`` would be the last branch for test cases
+- ``php-dev-`` for the added branches
 
 ### Credits
 [Laracasts](https://www.youtube.com/watch?v=fw5ObX8P6as)
