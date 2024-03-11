@@ -8,6 +8,10 @@ A changelogs should have a topics, challenges, branches, or simply versioning.
 How to write versioning:
 - use ``php`` in the initial branch then ``-branch-v1-test``
 
+### Branches
+- ``main`` branch all the updates and perfectly working should be posted
+- ``php-unit-testing`` would be the last branch for test cases
+
 ### Credits
 [Laracasts](https://www.youtube.com/watch?v=fw5ObX8P6as)
 [PHP.next](https://www.php.net/)
